@@ -1,0 +1,41 @@
+MORNING MARKETS BRIEFING - 10 June 2026
+
+Risk tone is firmly risk-off. Active US-Iran military exchanges near the Strait of Hormuz and a US May CPI print at 4.2% year-on-year (the highest in three years) are the twin drivers this morning. The single most important event today is the US CPI release at 14:30 CET, which has already printed well above the prior reading of 3.8%, and the ECB rate decision lands tomorrow at 14:15 CET.
+
+GENERAL MACRO
+
+Tape and risk tone:
+Nikkei 225 -1.89% at 64,179 (tech-led). Hang Seng -0.64% at 24,408. Shanghai data not confirmed; broader China tone cautious. US futures: S&P 500 and Nasdaq lower in premarket; Nvidia -2.1%, Micron -3.9%, Arm -4.0%, Microsoft -1.5%. European indices opening lower across the board following Asia and US futures. VIX level not confirmed but geopolitical backdrop implies elevated.
+
+Rates:
+US 10Y 4.53%, US 2Y 4.15%, 2s10s curve +38bps (positively sloped). 10Y Bund 3.06% (+1bp). ECB June 11: market pricing 99.6% probability of 25bp hike to 2.25% on sticky inflation and energy pass-through. Fed June: ~96% no-change probability; 4.2% CPI eliminates near-term cut prospects entirely.
+
+FX and commodities:
+EUR/USD ~1.165. DXY ~100 (briefly softer on ceasefire hopes, now reasserting). USD/JPY ~160.40 (yen unable to play safe-haven role given yield differential). Brent $91.27/bbl, WTI $88.03/bbl, both choppy after a 3%-plus week. Gold $4,137/oz, pulling back from highs as dollar bids return. TTF gas 49.56 EUR/MWh, +1.1% today, +38% year-on-year; Hormuz risk premium building. Copper price not confirmed at time of writing.
+
+Credit:
+US IG spreads ~80bps, US HY spreads ~285bps. Both near multi-decade tights despite rising geopolitical and idiosyncratic risk.
+
+Today's catalysts (CET):
+14:30 US May CPI: +0.5% MoM SA (prior +0.6%), +4.2% YoY (prior 3.8%). Above expectations and the highest annual rate since 2023.
+14:15 tomorrow, 11 June: ECB rate decision. 25bp hike to 2.25% all but certain.
+
+Overnight headlines:
+US-Iran: US forces completed strikes on Iranian military targets near the Strait of Hormuz following the downing of a US Army Apache helicopter. Rystad estimates 11.8 million bpd disruption across six Gulf producers; cumulative losses at 1 billion barrels. Full closure of Hormuz not priced in.
+Tariffs: White House planning additional tariffs of 10-12.5% on a broad range of trading partners, compounding the risk-off backdrop.
+Tech: Broad AI-sector valuation concerns accelerating premarket declines in semis and large-cap tech.
+
+PRIVATE EQUITY OVERLAY
+
+Financing:
+ECB deposit rate at 2.00% ahead of tomorrow's expected 25bp hike. SOFR ~3.73%. All-in direct lending yields approximately 8.5%. Lenders deploying selectively; greater scrutiny on cyclical, commodity-exposed, and AI-adjacent credits. Borrowers that underwrote SOFR at 3% face materially heavier debt service; covenant headroom thinning in the lower middle market. Shadow default rates rising in private credit. HY spreads at 285bps support new issuance for now but geopolitical escalation could push them wider and tighten primary conditions quickly.
+
+Comps and exits:
+Public tech and semi comps down 2-4% premarket, compressing EV/EBITDA multiples in software and AI-adjacent sectors. IPO window cautious; strategic M&A conditional on rate-path clarity. Exit timing challenging in the near term.
+
+Deal flow:
+Recent sponsor activity concentrated in niche add-ons (Shamrock's CardsHQ/Sports Card Investor, Mill Point Capital's Total Safety). No major new transactions announced overnight.
+
+BOTTOM LINE
+
+Hotter CPI, a near-certain ECB hike tomorrow, and active Hormuz-risk combine to push rates higher and risk assets lower: financing costs rise, public comps compress, and the exit window narrows further for cyclical and energy-exposed portfolio companies.
