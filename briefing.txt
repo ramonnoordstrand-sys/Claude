@@ -1,0 +1,39 @@
+Markets Briefing - Thursday 11 June 2026
+
+Risk tone is cautious to risk-off this morning. US equities fell sharply on Wednesday after May CPI hit a three-year high of 4.2% and a second consecutive night of US military strikes on Iran pushed Brent crude above $95. The single most important event today is the ECB rate decision at approximately 14:15 CET, where a first rate hike in roughly a year is widely expected, with May US PPI due simultaneously at 14:30 CET.
+
+GENERAL MACRO
+
+Tape and risk tone
+Asia closed cautiously. The Hang Seng ended Wednesday at 24,566 (-0.4%). The Nikkei 225 was broadly flat to fractionally positive on the week; Shanghai data for this morning is not confirmed in real-time sources. US cash markets closed at the day lows: S&P 500 at 7,267 (-1.62%), Nasdaq at 25,170 (-1.98%), Dow at 49,919 (-1.87%). The European open was mixed: Euro Stoxx 50 near 6,010, DAX near 24,195, CAC near 8,162, AEX near 1,052, and FTSE 100 near 10,255 (energy stocks providing some offset). VIX was approximately 20.5 going into the Wednesday close.
+
+Rates
+US 10Y at 4.53%; US 2Y at approximately 4.15%; 2s10s curve around +38bp. German 10Y Bund at 3.06%. Money markets price roughly 70bp of ECB tightening by year-end, implying today's hike plus at least one more. A Fed 25bp move in December remains fully priced.
+
+FX and commodities
+EUR/USD at approximately 1.15, down around 2% on the month. USD/JPY at approximately 160, yen at multi-month lows. DXY direction not confirmed this morning. Brent crude rose 4.3% to $95.38 on Hormuz disruption fears; WTI around $89.70. Gold near $4,077-4,100, at seven-month lows. TTF European gas at EUR 50.26/MWh, up nearly 8% on the month and 38% year-on-year. Copper at approximately $6.28/lb, pulling back from a May COMEX record above $6.70.
+
+Credit
+US IG OAS approximately 80bp; US HY OAS approximately 285bp. Both have widened modestly from near multi-decade tights as inflation and geopolitical risk compound.
+
+Today's catalysts (CET)
+14:15 approx - ECB rate decision: 25bp hike expected, deposit rate to 2.25%, first move in roughly one year; press conference follows with market focus on guidance regarding further tightening versus growth headwinds from the Iran-driven energy shock
+14:30 - US PPI May m/m: consensus +0.6% vs prior +1.4%; YoY prior was 6.0%; core consensus +0.4% vs prior +0.6%
+After US close - Adobe Q2 FY2026 earnings: consensus EPS $5.83, revenue guided to $6.43-6.48 billion
+
+Overnight headlines
+US Central Command completed a second night of strikes on Iranian targets including air defense sites, communication systems, and surveillance assets. Iran has declared the Strait of Hormuz closed to commercial traffic; CENTCOM disputes a full closure, saying commercial ships continue to transit. Qatar is in Tehran for diplomatic talks. May CPI printed at 4.2% year-on-year, the highest in three years, with core monthly at 0.2%, slightly softer than feared but not enough to shift the rate hiking narrative.
+
+PRIVATE EQUITY OVERLAY
+
+Financing
+Three-month Euribor is around 2.80-2.82% and will edge higher following today's expected ECB hike; money markets see rates approaching 2.5-2.75% on the deposit facility by year-end. Term SOFR levels were not confirmed in real-time sources this morning. Leveraged loan spreads for BB and B credits are near cycle lows but are expected to widen 25-50bp over 2026, especially for weaker credits and energy-exposed sectors. HY OAS at 285bp and IG at 80bp signal that all-in financing costs are rising from recent tights. Private credit lenders face renewed competition as syndicated banks push back into sponsor-led deals, compressing direct lending margins.
+
+Comps and exits
+Adobe's post-close earnings will be a read-across for software sector multiples after the stock rallied roughly 8% in early June on rotation into beaten-down software. The broader IPO exit window is cautiously open but energy inflation and elevated rates are limiting the timing of sponsor exits. Public EV/EBITDA multiples in tech and industrials are under mild pressure following Wednesday's CPI shock.
+
+Deal and sector flow
+No landmark sponsor transactions have been announced this morning. The 2026 leveraged finance and LBO calendar remains active in aggregate, continuing a recovery from the 2024-2025 slowdown; however, near-term risk appetite in live sponsor processes is sensitive to today's ECB tone and PPI outcome.
+
+BOTTOM LINE
+The ECB hike, sticky US inflation, and an Iran conflict showing no near-term resolution collectively tighten financial conditions and compress deal economics at the margin; the Lagarde press conference guidance and the PPI print are the two data points to watch before the European close today.
