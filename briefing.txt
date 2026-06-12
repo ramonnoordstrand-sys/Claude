@@ -1,0 +1,38 @@
+Risk tone is cautious and tilted risk-off this morning. The US-Iran military exchange has shifted market pricing from ceasefire to prolonged conflict, keeping geopolitical risk premiums elevated in energy and equities. Today's main scheduled release is the US University of Michigan Consumer Sentiment preliminary for June at 16:00 CET (consensus 46, prior 46).
+
+GENERAL MACRO
+
+Tape and risk tone
+Asia closed broadly lower. Nikkei 225 around 64,725 (-1.1%), Hang Seng around 24,566 (-0.4%, extending a fifth straight losing session), Shanghai Composite around 3,989 (-0.5%). US futures have recovered off overnight lows: S&P 500 futures around 7,305 (+0.2%), Nasdaq futures +0.3%. European open is mixed: Euro Stoxx 50 around 6,156 (+1.5%), DAX around 24,195 (-1.0%), CAC 40 around 8,162 (-0.5%), AEX around 1,052 (+0.5%), FTSE 100 around 10,255 (+0.3%). VIX around 22, up roughly 11% on the session.
+
+Rates
+US 10Y around 4.47%. 10Y Bund around 3.04%. The 2Y Treasury is not directly confirmed this morning but is implied well below the current Fed policy rate, with the curve steepening out of its prior inversion. The ECB hiked 25bp at its June meeting (first hike since 2023) after eurozone CPI hit 3.2% in May; markets price at least one more hike this year. The Fed is mid-cutting cycle, targeting around 3.0-3.25% by year-end.
+
+FX and commodities
+EUR/USD 1.1573, DXY 99.77, USD/JPY 160.25 (yen remains weak). Brent crude around $89/bbl, WTI around $92/bbl. Gold around $4,193/oz, down roughly 0.5% from Thursday. TTF European gas around 47.85 EUR/MWh, down 3.7% as supply disruption fears eased somewhat. Copper around 6.19 USD/lb (approx $13,640/t LME), near record levels.
+
+Credit
+US IG OAS around 80bp, near 25-year tights. US HY OAS around 275-285bp. Spreads remain historically compressed, though the VIX jump signals some repricing risk if geopolitical conditions worsen.
+
+Today's catalysts (CET)
+08:00 - Germany final CPI May
+08:45 - France final CPI May
+16:00 - US UMich Consumer Sentiment June preliminary (consensus 46, prior 46)
+No major central bank decisions or scheduled speakers confirmed.
+
+Overnight headlines
+US CENTCOM struck Iranian military targets; Iran retaliated against Gulf state facilities. Markets have shifted from pricing a near-term ceasefire to pricing a prolonged conflict with intermittent exchanges. Fitch downgraded its global sovereign sector outlook to "deteriorating," citing the US-Iran war, elevated inflation, and higher bond yields as structural risks. Oil is holding below $100 despite escalation, providing some limit to the macro damage. AI infrastructure demand continues to support tech equity valuations and act as a counterweight to risk-off flows.
+
+PE OVERLAY
+
+Financing
+3M Euribor implied around 2.5-2.7% following the ECB's June hike. Term SOFR broadly around 3.0-3.25% in line with the Fed cutting path. Leveraged loan and high-yield new issuance is clearing with cautious discipline; private credit remains active and filling gaps left by banks pulling back. Tight IG spreads support all-in refinancing costs for investment-grade rated portfolio companies.
+
+Comps and exits
+EV/EBITDA multiples remain elevated in technology and infrastructure but have compressed in consumer and industrial sectors. The IPO window is partially open but geopolitical volatility is limiting sponsor confidence in timing. Strategic M&A continues to be the preferred exit route for most sponsors.
+
+Deal and sector flow
+2025 sponsor-led deal volume reached $1.2 trillion, the second-highest on record. 2026 activity continues with discipline: a Deloitte survey of 500 PE and corporate leaders flags cautious optimism, with cross-border acquisitions as the key growth vector. Sector focus concentrated in AI infrastructure, energy transition, and healthcare services.
+
+BOTTOM LINE
+The Iran escalation is the single biggest regime variable today: it lifts energy costs and compresses growth expectations, but oil holding below $100 and historically tight credit spreads mean the immediate damage to deal-making and portfolio company fundamentals is contained unless the conflict broadens materially.
