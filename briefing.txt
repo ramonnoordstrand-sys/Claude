@@ -1,0 +1,46 @@
+MARKETS BRIEFING - Sunday 15 June 2026 (CET morning)
+
+Note: Today is Sunday. Asian and European markets are closed; US futures do not open until Sunday evening ET. This briefing is based on Friday 13 June close and weekend developments. The dominant event is an imminent US-Iran peace deal that could reshape energy markets and risk appetite heading into Monday's open.
+
+Risk tone is cautiously risk-on. Equities ended Friday higher, oil sold off sharply on ceasefire optimism, and credit held tight. The single most important event this week is the FOMC decision on Wednesday 18 June (no change expected), but the session-defining wildcard is whether a US-Iran agreement is formally signed in Europe this weekend.
+
+
+GENERAL MACRO
+
+Tape and risk tone:
+Asian equities closed the week mixed. The Nikkei 225 surged 2.9% on Friday to close at 66,078, ending a rocky week that showed a net -0.85% five-day performance; the bounce came as Trump announced a peace deal with Iran could be signed over the weekend, pulling oil prices sharply lower and lifting Japanese exporters and equities. The Hang Seng fell roughly 0.6% to around 24,408 late in the week, extending a losing streak as tech shares sold off and residual Hormuz risk kept sentiment cautious. The Shanghai Composite was testing resistance near 4,040. US equity futures were pricing modest gains ahead of the weekend (S&P emini was tracking around +0.5%, Nasdaq around +0.9% intraday Friday), and the S&P 500 closed Friday around 7,430-7,435, tracking toward a positive weekly finish. European markets closed Friday with Euro Stoxx 50 touching its highest level since February 2026, with banks leading (Deutsche Bank +6.6%, Santander and BNP Paribas +5%), DAX and CAC both posting solid gains, and ASML adding 3.4%. Specific AEX and FTSE Friday close levels were not immediately verifiable. The VIX was not available at press time; broader tone suggests it eased last week as the peace-deal narrative dominated.
+
+Rates:
+US 2Y closed around 4.09%, US 10Y around 4.47-4.49%, implying a 2s10s spread of roughly 38-40 basis points - modestly positive and reflecting the market's view that rate cuts remain distant. The 10Y Bund yield has stabilised near 2.87%, consistent with the ECB being on an extended hold. Markets price the Fed at a 97% probability of no change at the June 17-18 meeting; Goldman Sachs pushed its first Fed cut forecast to late 2026 or early 2027, citing energy pass-through keeping core CPI near 3%. The ECB is priced at only around a 14% chance of any further 2026 cut; the market's next expected ECB move beyond that is a hike, not a cut.
+
+FX and commodities:
+The dollar index was approaching resistance in the 99.50-100.40 zone. EUR/USD was in the mid-1.18s earlier in the year but specific Friday levels were not verified; dollar strength has been partial, capped by oil-driven disinflation hopes. USD/JPY specific level not available at press time. Brent crude fell more than 4% on Friday alone to below $86.50 per barrel, the lowest since early March, as both sides signalled a deal was close. WTI declined to around $84.88. Gold traded near $4,200 per ounce. European TTF gas price not readily available. Copper level not confirmed from Friday sources.
+
+Credit:
+Investment-grade OAS around 80 basis points; high yield OAS around 285 basis points. Both tight relative to historical norms, reflecting strong credit fundamentals and limited near-term default risk. Average leveraged loan spread around 322 bps (post-GFC low), average yield 7.17% (four-year low). Conditions remain broadly constructive for issuers.
+
+Today's catalysts (Monday 16 June, week ahead):
+- FOMC meeting begins Monday, decision Wednesday 18 June at 20:00 CET (no change expected, market focus on dot plot and Powell language on timing of first cut)
+- No major scheduled data releases on Sunday
+- Weekend geopolitical resolution on Iran: if a deal is formally signed before Asian markets open Monday, expect a gap-down in oil, a gap-up in equities (particularly EM, airlines, logistics, European industrials), and tighter credit spreads
+- ECB speakers: calendar not confirmed for coming days; watch for any shift in tone on inflation and rates
+
+Overnight/weekend headlines:
+Pakistan said a final agreed text for a US-Iran deal has been reached, with finalisation expected within 24 hours; Iran's foreign ministry said Sunday signing was unlikely, indicating last-minute friction on specific terms. Trump confirmed a deal could be signed in Europe this weekend. The Strait of Hormuz remains closed, with roughly 10 million barrels per day of crude still shut in. SpaceX listed on Nasdaq (ticker SPCX) on 12 June at a reported $1.5 trillion valuation; strong demand from the roadshow. US launched strikes on southern Iran on 11 June but both sides described the ceasefire as still in place and negotiations continuing.
+
+
+PRIVATE EQUITY OVERLAY
+
+Financing:
+3-month Euribor has moved lower in line with ECB cuts taken earlier in the cycle; European private credit pricing is typically Euribor plus 600-850 bps for mid-market, reflecting deal complexity rather than distress. Leveraged loan new-issue spreads are at post-GFC lows (avg 322 bps, avg yield 7.17%), meaning financing for buyouts is available and reasonably priced. Private credit continues to take share from syndicated markets. The main risk to financing conditions is an energy-driven inflation re-acceleration stalling the rate-cut path, which would hold base rates higher for longer than sponsors modelled at entry.
+
+Comps and exits:
+European equities have recovered strongly year-to-date (Euro Stoxx 50 at multi-month highs, banks surging). Public market multiples have expanded, improving the exit backdrop for portfolio companies in financials and industrials. The SpaceX IPO at $1.5 trillion opens a mega-cap window and signals strong institutional risk appetite for large listings; combined with Anthropic and OpenAI laying IPO groundwork, 2026 is shaping up as a landmark year for equity issuance. Strategic M&A activity not specifically reported this morning.
+
+Deal and sector flow:
+SpaceX-xAI listing is the headline precedent transaction, demonstrating that even at $1.5 trillion and amid geopolitical noise, investors cleared a landmark deal. Dividend recap activity in leveraged loans has picked up (spreads at four-year lows create ideal conditions). European exit window is improving alongside equity market recovery. No specific sponsor M&A transactions reported this weekend.
+
+
+BOTTOM LINE
+
+A signed US-Iran deal over the weekend would be a regime-level event: oil would fall materially from current levels (compressing input costs for portfolio companies), risk assets would rally, credit spreads would tighten further, and the financing window for buyouts and exits would widen. The deal is close but not yet confirmed. Absent a signed agreement, Monday opens on cautious optimism with rates anchored, credit tight, and equity momentum intact but contingent on the geopolitical outcome.
