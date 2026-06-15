@@ -1,0 +1,114 @@
+MORNING MARKETS BRIEFING - Monday 16 June 2026 (CET)
+----------------------------------------------------
+
+Risk firmly on this morning after the US and Iran confirmed a permanent peace
+agreement on Sunday, with a formal signing in Switzerland set for Friday 19
+June. The deal reopens the Strait of Hormuz, lifts the US naval blockade on
+Iranian ports, suspends oil sanctions, and releases $24bn in frozen assets.
+Asia surged and oil is sharply lower. The main macro events today are US Empire
+State Manufacturing (14:30 CET) and Industrial Production (15:15 CET).
+
+
+GENERAL MACRO
+
+Tape and risk tone:
+  Nikkei 225  closed +5.4%  at 69,594 (deal relief, strongest day in months)
+  Hang Seng   closed +1.0%  at ~25,000 (gave back initial gains of ~3%)
+  Shanghai    closed +0.9%  at 4,067
+  S&P 500 fut  7,524  +1.2%
+  Nasdaq 100 fut  30,213  +1.9%
+  Euro Stoxx 50 / DAX / CAC / AEX / FTSE: last close 12 June was Euro Stoxx 50
+  at 6,188, CAC 40 at 8,351; on 13 June Stoxx 600 +1.8%, DAX +1.7%, FTSE
+  +1.6%, CAC +1.8% on Iran hope. Futures pricing a further gap-up open of
+  1-2% as Europe comes in today.
+  VIX  17.68  -9.1%
+
+Rates:
+  US 2Y  4.09%    US 10Y  4.48%    2s10s  +39bp (curve steepening)
+  Bund 10Y  3.07% (near two-month high; ECB raised 25bp on 11 June, first
+  hike since 2023, inflation driven by energy disruption)
+  ECB next move: another 25bp expected Sept (July priced at ~40% probability)
+  Fed: markets have repriced toward at least one more hike in H2 2026 on
+  sticky energy-driven inflation; cut expectations pushed out to 2027
+
+FX and commodities:
+  EUR/USD  ~1.162 (dollar soft on reduced safe-haven demand; deal positive
+  for euro-area growth outlook via lower energy costs)
+  DXY  ~99.8 (near 100, retreating from highs above 102 during conflict)
+  USD/JPY  ~159.1 (BoJ tolerance being tested; no intervention yet)
+  Brent crude  $83.40  -4.5%   WTI  $81.00  -5.0% (Hormuz reopening priced in;
+  physical normalisation expected over "many months" due to infrastructure
+  damage and mine-clearing)
+  Gold  $4,348  +2.6% (dollar weakness and lingering inflation hedge)
+  TTF European gas  ~46 EUR/MWh  -7% (down from 50+ in prior week; fresh
+  two-week low; deal removes LNG rerouting premium)
+  Copper  ~$6.43/lb  +2.7% last Friday (growth optimism; risk-on today
+  likely adds further)
+
+Credit:
+  US IG spreads  ~80bp OAS    US HY spreads  ~275bp OAS
+  Both tightening on the risk-on move; HY has outperformed loans year-to-date.
+  No systemic stress signals.
+
+Today's catalysts (CET):
+  08:00  Germany WPI May MoM   cons 0.8%  prev 2.0%
+  10:00  Eurozone Trade Balance Apr   cons EUR 7.8B  prev EUR 7.8B
+  10:00  Eurozone Industrial Production Apr MoM   cons +0.2%  prev +0.2%
+  14:30  US Empire State Manufacturing June   cons 13.2  prev 19.6
+  15:15  US Industrial Production May MoM   cons +0.3%  prev +0.7%
+  16:00  US NAHB Housing Market Index June   cons 36  prev 37
+  No Fed speakers scheduled; market attention is on oil market mechanics
+  following the peace deal, not the data calendar.
+
+Overnight headlines:
+  - US-Iran MOU confirmed Sunday; Hormuz reopens immediately in principle but
+    physical vessel clearance and potential mine-sweeping could take months.
+    Deal also covers Iran nuclear programme and sanctions rollback.
+  - ECB raised deposit rate 25bp to 2.25% on 11 June, citing energy-driven
+    inflation (Bund yield near two-month high at 3.07% reflects one more hike
+    priced by year-end). The deal materially changes the ECB's energy
+    inflation thesis.
+  - BoJ under pressure as USD/JPY holds above 159; intervention risk elevated.
+  - SpaceX Starship IPO reportedly oversubscribed; debut expected this week
+    in New York.
+  - South Korea Kospi +5.7%; Taiwan Taiex +2.7% on deal news; regional risk
+    appetite strong across the board.
+
+
+PRIVATE EQUITY OVERLAY
+
+Financing:
+  Euribor 3M  2.40% (as of 10 June, up from sub-2% pre-conflict)
+  Term SOFR 3M  estimated ~4.75% (Fed on hold but hawkish bias)
+  Leveraged loan spreads near historic tights pre-Iran (E+425 to E+450 area
+  for B-rated credits), though deal pace on new-money LBOs slowed in Q1 2026
+  with total US PE deal value $257bn across 2,374 transactions. Broadly
+  syndicated loans underperformed HY bonds YTD. Private credit market active
+  with high dry powder but lenders competing hard for quality paper and
+  making concessions on structure.
+  If the peace deal holds and energy inflation reverses, the next ECB move
+  likely flips from hike to hold or cut: material for euro-denominated
+  floating-rate debt and for DSCR headroom on levered European assets.
+
+Comps and exits:
+  Public multiples recovered partly through Q2 2026 but remain below peak;
+  no specific EV/EBITDA sector data available this morning. IPO window
+  cautiously reopening (SpaceX debut this week is a test). Strategic M&A
+  improving; Barclays forecasts $100-120bn in M&A financing and $70-90bn in
+  LBO issuance for full-year 2026, above 2025 levels.
+
+Deal and sector flow:
+  Hologic and Electronic Arts previously flagged as large deals clearing the
+  leveraged loan market. Energy and industrials will see most immediate
+  re-rating on oil price move. Logistics, shipping, and aviation portfolio
+  companies are direct beneficiaries of Hormuz reopening.
+
+
+BOTTOM LINE
+
+The Iran peace deal is the single largest regime change since the conflict
+began in February: if it holds, it unwinds the energy inflation shock that
+drove the ECB's June hike, relieves pressure on floating-rate debt costs,
+and widens the exit window for industrial and energy-exposed portfolio companies,
+but oil normalisation will take months and geopolitical execution risk remains
+until the 19 June signing.
