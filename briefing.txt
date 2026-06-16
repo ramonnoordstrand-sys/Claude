@@ -1,0 +1,31 @@
+MORNING MARKETS BRIEFING - Tuesday 16 June 2026
+
+The tone is risk-on after the US and Iran signed a framework peace agreement over the weekend to end three months of military conflict and reopen the Strait of Hormuz, removing the year's biggest energy and inflation risk premium in one move. The most important scheduled event today is the Bank of Japan rate decision where the consensus expects a hike to 1.00% from 0.75%; the FOMC two-day meeting also begins today with its decision due Wednesday.
+
+TAPE AND RISK TONE
+Asia closed mixed on the Iran relief: Nikkei 225 around 69,594; Hang Seng fell roughly 1.0% to 24,590, pulled lower by energy sector and soft China data; Shanghai Composite gained about 0.88% to 4,067. US S&P 500 futures are up around 0.5% and Nasdaq futures up 0.7-0.9% in the premarket. European equities opened higher in aggregate: Euro Stoxx 50 around 6,229 (+0.68%), DAX around 24,894 (+1.05%), CAC 40 around 8,384 (+0.40%). The AEX is a modest outlier at around 1,076 (-0.52%) and FTSE 100 around 10,431 (-0.39%), both dragged by large-cap energy stocks after the oil price decline. VIX fell 8.7% to 16.21, signalling a clear reduction in geopolitical risk premium.
+
+RATES
+US 10Y yield is around 4.48%. The 2Y is not precisely available this morning; the curve is positively sloped and the 2s10s spread is narrowly positive. German Bund 10Y has fallen toward 2.95%, its lowest in several weeks, as Iran-linked energy inflation fears ease. The ECB raised rates 25bps on June 11, its first hike in three years, responding to May CPI at 4.2% YoY driven by a 23.5% energy price surge. Markets now price around 30bps of further ECB tightening for the rest of 2026, mostly for September, though the Iran deal is prompting a reassessment of that path. The Fed is all but certain to hold at 3.50-3.75% at this week's meeting (97.8% probability of no change priced); most expectations for cuts have shifted to 2027.
+
+FX AND COMMODITIES
+EUR/USD around 1.1579; DXY around 119.8; USD/JPY at 160.07 going into the BoJ decision - a hike could pressure yen shorts significantly. Brent crude at around $83.14 and WTI at $80.94, both down over 5% on Monday after the Iran-Hormuz deal. Gold at approximately $4,343/oz. European natural gas (TTF) fell more than 5% to EUR 44.24/MWh, a five-week low, directly reflecting the Strait reopening prospect. Copper at around $6.49/lb, firm and consistent with the broader risk-on backdrop.
+
+CREDIT
+Investment-grade spreads around 80bps; high-yield spreads around 285bps; both near recent cycle lows, consistent with improved risk sentiment and active primary markets.
+
+CATALYSTS TODAY (CET)
+Asian session: BoJ rate decision, consensus 1.00% vs prior 0.75%
+09:00 ZEW Economic Sentiment (Jun): consensus -6 vs prior -7.6
+09:00 EU Labour Cost Index YoY Q1 final: 3.3%
+14:30 US Building Permits May prelim: consensus 1.41M vs prior 1.42M
+14:30 US Housing Starts May: consensus 1.44M vs prior 1.43M
+FOMC two-day meeting begins; rate decision due Wednesday 17 June
+
+OVERNIGHT HEADLINES
+US-Iran framework deal (June 14-15): Trump confirmed the agreement and authorised removal of the US naval blockade of Iranian ports. Iran controlled the Strait since late February, blocking around 20% of global oil supply. Reopening is targeted for end of this week. UK PM Starmer welcomed it; broader G7 support indicated. China May data out this morning: industrial production consensus 4.3% vs prior 4.1%, but retail sales flat at 0% vs prior 0.2%, and fixed asset investment continues to contract, reflecting domestic demand weakness that the Iran deal does not address. Separately, the BoJ hike, if delivered, adds upward pressure on the yen and could unwind USD/JPY carry positions at 160.
+
+PRIVATE EQUITY OVERLAY
+Financing: SOFR at 3.60%; Euribor estimated in the 2.75-3.25% range following the ECB's June 11 hike, though the Iran deal may slow further tightening. Leveraged loan and HY spreads are near cycle lows; private credit is active and deals are clearing. Leveraged finance markets have underwritten around $65bn of LBO debt year-to-date, including the $55bn EA take-private (largest LBO on record), Sycamore's $23.7bn Walgreens deal, and the Blackstone/TPG acquisition of Hologic. Public EV/EBITDA comps: technology 12-13x, healthcare services 11.5-15x, energy 7-9x (with oil multiples compressing on Iran supply expectations). The IPO window is opening; PE sponsors expected to account for up to a third of 2026 listings. Exit activity is up over 80% year-on-year.
+
+Bottom line: the Iran deal is a regime shift. If the Strait of Hormuz reopens as signalled, the energy risk premium compresses, ECB tightening slows, input costs fall for portfolio companies, and the financing environment stays supportive. Watch the BoJ decision this morning and the FOMC outcome Wednesday.
