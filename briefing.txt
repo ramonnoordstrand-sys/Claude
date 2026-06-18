@@ -1,0 +1,35 @@
+MORNING BRIEFING - Thursday 18 June 2026
+
+The tone is cautiously risk-on in equities but clouded by two back-to-back central bank surprises: the ECB hiked its deposit rate to 2.25% on Wednesday in its first increase since 2023, and new Fed Chair Kevin Warsh held US rates at 3.5-3.75% but shifted the dot plot hawkishly. The main event today is the Bank of England decision at noon GMT (13:00 CET), where the MPC is expected to hold Bank Rate at 3.75%.
+
+MACRO
+
+Risk tone. Japan outperformed with the yen staying weak: Nikkei +1.8% to 71,148. Hang Seng fell 1.75% to 23,888 and Shanghai slipped 0.4% to 4,093 as China digests tighter global policy. US S&P 500 futures +0.7% to 7,543 and Nasdaq futures +0.7% to 30,539. European open: Euro Stoxx 50 +0.7% at 6,300, DAX +0.1% at 24,935, AEX +1.2% at 1,083, FTSE +0.1% at 10,509, CAC -0.2% at 8,431. VIX closed yesterday at 16.4.
+
+Rates. US 10Y at 4.43%, US 2Y at 4.06%, 2s10s spread +37bp (curve no longer inverted). Bund 10Y at 2.93%. Markets have sharply trimmed ECB cut pricing and now assign material probability of a further hike in Q3. Nine of 19 Fed participants see at least one 2026 hike; Warsh declined to publish his own dot and said he would form task forces to overhaul Fed operations.
+
+FX and commodities. EUR/USD around 1.167, DXY at 99.5, USD/JPY at 160.65. Brent $77.85 (-2.1%), WTI $74.86 (-2.5%), and TTF gas -3.2% to 40.60 after the US-Iran interim peace deal extended the Hormuz ceasefire by 60 days. Gold $4,333 (-1.1%). Copper $6.38/lb (+0.3%).
+
+Credit. US IG OAS around 80bp, HY around 285bp, both near historically tight levels with limited spread buffer.
+
+Today's catalysts (CET):
+07:00 - UK wages 4.1% and unemployment 5.0% (slight wage beat, adds to BoE hold case)
+13:00 - BoE rate decision, expected hold at 3.75% with close watch on vote split
+13:30 - Governor Bailey press conference
+14:30 - US jobless claims 229K (cons. 226K, mild miss); Philly Fed -0.4 (cons. +9, sharp contraction miss)
+
+Overnight headlines.
+- US and Iran signed an interim deal extending the Strait of Hormuz ceasefire by 60 days. Trump warned of resumed strikes if Tehran defaults. Oil, gas, and shipping names under pressure on the news.
+- ECB raised rates to 2.25% on Wednesday, citing eurozone HICP at 3.2% driven by energy prices. ING sees a follow-up hike in July or September as likely.
+- Warsh FOMC: statement dramatically shortened, easing bias removed, no Warsh dot published. The median year-end dot rose to 3.8% vs 3.4% in March.
+- Philly Fed manufacturing collapsed to -0.4 in June vs consensus +9: a sharp signal of US factory contraction that sits awkwardly alongside the Warsh hawkish shift.
+
+PRIVATE EQUITY OVERLAY
+
+Financing. 3M Euribor around 2.75-2.80% and moving higher; term SOFR at 3.63%. The ECB hike is the more material variable for euro-denominated deals: all-in senior rates are rising for the first time this cycle, directly compressing deal economics. Leveraged loan refinancing volumes fell roughly 40% year-on-year in Q1 2026, limiting the escape valve sponsors used in 2024-25. Private credit funds about 80% of LBO financing; direct lenders are repricing in line with base rates. HY spreads at 285bp keep absolute all-in yields elevated even with tight OAS.
+
+Comps and exits. Energy and materials EV/EBITDA multiples are compressing on the oil selloff. Defence, infrastructure, and industrial names remain elevated on geopolitical themes. The IPO window is cautious; PE sponsors continue to rely on continuation vehicles and secondary sales as primary exit routes.
+
+Deal flow. No headline sponsor transactions overnight. Rising euro base rates, soft US manufacturing data, and an oil correction are likely to keep sponsors cautious on new large-cap LBOs in the near term.
+
+The ECB hike and Warsh's hawkish pivot are a genuine pricing event this week: euro financing costs are rising for the first time this cycle, reducing available deal leverage and pressuring exit multiples in rate-sensitive sectors such as real estate, consumer, and infrastructure.
