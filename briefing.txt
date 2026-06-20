@@ -1,0 +1,54 @@
+MARKETS BRIEFING | Saturday 20 June 2026 | 07:00 CET
+
+Risk tone is cautiously positive as the week closes. US equities staged a strong Thursday recovery after Wednesday's Fed-shock selloff, helped by news that Washington lifted its Iran shipping blockade. Today is Saturday; European markets are closed and open again Monday, with Thursday's US inflation print the week's key catalyst.
+
+--- GENERAL MACRO ---
+
+Tape and risk tone
+US (last close Thurs 18 June): S&P 500 +1.1% to 7,501; Nasdaq 100 +1.9%; Dow +72pts.
+VIX: 16.40, down 11% on the day -- fear fading after Wednesday's spike.
+US markets closed Friday (Juneteenth).
+Asia (Fri 19 June): Nikkei 225 +0.28% to 71,250. Hang Seng -1.6% to 23,925 on Thursday (closed Friday). Shanghai not confirmed.
+Europe: DAX, CAC, AEX, FTSE last closed Thursday; Monday open is the next read.
+
+Rates
+US 10Y: 4.46% | US 2Y: 4.19% | 2s10s: +27bps (mildly steepening)
+Bund 10Y: ~3.00%
+Fed: Held rates at June 17 meeting. Dot plot hawkish: median year-end forecast lifted to 3.8% (from 3.4%); nine of 18 members project at least one 25bp hike; October is earliest consensus date. PCE forecast revised to 3.6% for 2026.
+ECB: Raised 25bps on 11 June to 2.25% deposit rate -- first hike since 2023 -- citing Iran energy shock. Projects eurozone inflation at 3% in 2026, cooling to 2.3% in 2027.
+
+FX and commodities
+EUR/USD: 1.1477, weakest since mid-March; weekly range 1.1429-1.1617
+USD/JPY: 161.24; yen near multi-year lows on Fed-BoJ divergence
+DXY: ~101
+Brent: ~$80/bbl; pulled back from above $90 after Iran blockade lifted
+Gold: $4,157, down 2.1% Friday but well elevated on earlier safe-haven demand
+WTI, TTF European gas, copper: not confirmed this morning
+
+Credit
+US IG OAS: ~80bps | US HY OAS: ~285bps
+Both historically tight. Risk: 2026 IG issuance forecasts of $2.25T (+35% YoY) may outpace demand.
+
+Today's catalysts
+No scheduled data today (Saturday).
+Week of 22-26 June: Thursday 25 June -- US inflation release (CET 14:30; consensus not yet published). Kiplinger flags this as the market's primary focus for the week.
+
+Overnight / weekly headlines
+- US ends Iran blockade (18 June): Washington lifted Strait of Hormuz shipping restrictions, easing the energy shock that had pushed Brent above $90. Oil fell to ~$80; equities rallied 1-2%.
+- Fed hawkish pivot (17 June): Dot plot raised median to 3.8%, PCE forecast to 3.6%. Market now pricing a hike by late 2026. Chairman Warsh reportedly abstained from the rate forecast.
+- ECB hike (11 June): First increase since 2023 in response to Iran-driven energy inflation; next ECB decision expected late July.
+- FSB report (6 May): Published private credit vulnerability assessment; systemic risk from rapid non-bank lender growth under regulatory scrutiny.
+
+--- PRIVATE EQUITY OVERLAY ---
+
+Financing
+SOFR (overnight): 3.63% | 3M Euribor: est. ~2.55% post-ECB hike
+HY at 285bps and IG at 80bps keep all-in costs elevated on both sides of the Atlantic. Leveraged loan activity is constrained by floating-rate burden on borrowers at these base rates. Private credit continuing to fill the gap where banks stay cautious on commodity-linked exposures.
+
+Comps and exits
+No confirmed EV/EBITDA moves this week. S&P at 7,501 supports headline exit multiples, but the Fed hawkish signal introduces a meaningful discount on long-duration and growth assets. IPO window is technically open; strategic M&A in energy-adjacent and logistics sectors remains depressed while the Iran overhang persists.
+
+Deal and sector flow
+No major M&A confirmed this week. Energy, logistics, food and agriculture face elevated cost pressure from the Hormuz disruption period. The lifting of the blockade is the most important catalyst for deal revival in those sectors.
+
+Bottom line: The US ending the Iran blockade is the week's single biggest repricing event -- it eases energy costs and improves deal visibility. But the Fed's hawkish reprice keeps financing costs high and compresses fixed-income valuations; Thursday's inflation print will determine whether October hike risk is live or fades.
