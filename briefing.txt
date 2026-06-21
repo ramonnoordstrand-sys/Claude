@@ -1,0 +1,36 @@
+Sunday June 21, 2026 | Next open: Monday June 22
+
+Risk tone is cautiously risk-on after the US-Iran MOU signed June 19 in Geneva removes the acute Strait of Hormuz risk premium, though markets retreated Friday on deal-durability concerns and a hawkish Fed. The main event this week is Thursday's US May PCE; Monday's calendar is light with ECB's Lane speaking at 15:10 CET.
+
+TAPE AND RISK TONE
+Asia last session (Thu Jun 19): Nikkei 225 71,250 +0.8% (record high); Hang Seng 23,925 -1.6% (Jun 18); Shanghai Composite 4,090 -0.4% (Jun 19, before Dragon Boat Festival closure). US markets closed Fri Jun 19 for Juneteenth; last close Thu Jun 18: S&P 500 7,501 +1.1%, Nasdaq 100 +2.5%, Philadelphia Semiconductor Index +6.4% to a record high. Europe Fri Jun 19: Stoxx 600 -0.2%, DAX flat, CAC 40 -0.6%, FTSE 100 -0.4%. US futures not actively traded Sunday morning. VIX 16.4, down 11% on Thursday.
+
+RATES
+US 2Y 4.19%, US 10Y 4.45%, 2s10s spread +26 bps (slight steepening). 10Y Bund approx 2.95%. Fed held rates at June meeting; dot plot hawkish, signaling a potential hike on energy-driven inflation. ECB held in April; next decision in focus with market pricing mixed on the next move.
+
+FX AND COMMODITIES
+EUR/USD 1.1418, near March lows at 1.1411. DXY approx 100.8. USD/JPY 161.46, highest since July 2024 on yield differential widening. Brent $80.59, WTI $77.33, both off war-peak levels as the Strait reopens but logistics backlog keeps a floor in. Gold approx $4,152, down 1.4% as risk premium fades. TTF gas approx 42 EUR/MWh, down sharply from conflict highs after Strait reopening news. Copper approx $6.33/lb.
+
+CREDIT
+US IG OAS approx 80 bps. US HY OAS approx 272 bps. Spreads are tight and offer limited cushion against a widening shock.
+
+CATALYSTS MONDAY JUN 22 (CET)
+09:30 ECB President Lagarde pre-recorded keynote, digitalization conference, Frankfurt.
+09:50 ECB Executive Board member Cipollone chairs session, same conference.
+15:10 ECB Chief Economist Philip Lane on stage at Reuters NEXT Europe, London.
+No major US data releases Monday. Key release this week: Thursday US May PCE and core PCE (Fed's preferred inflation gauge; prior core 2.6%, consensus not confirmed).
+
+OVERNIGHT HEADLINES
+US-Iran MOU signed June 19, Geneva: 14-point framework covers Strait of Hormuz reopening, US sanctions relief, $300B Iran reconstruction plan, and a 60-day nuclear negotiation window. Asian markets surged on the announcement (Nikkei +5.5% on the day of the deal); Friday reversal driven by postponement of follow-up talks and domestic US political pushback on the scope of concessions.
+Fed June meeting: rates on hold, dot plot signals hawkish pivot; energy inflation from the Iran conflict the primary driver.
+Tech outperformance: AI chip demand drove the Philadelphia Semiconductor Index to a record; AI infrastructure financing is a growing theme in IG credit.
+
+PRIVATE EQUITY OVERLAY
+
+Financing: 3M Euribor approx 2.41%, consistent with ECB on hold. US first-lien private credit yields expected to floor around 8.0-8.5%. HY OAS at 272 bps is tight; leveraged loan deals are clearing but most expect modest spread widening in H2. Private credit semiliquid fund AUM at $230B, up 22% from end-2024, with competition driving looser covenants and increased PIK structures.
+
+Comps and exits: IPO window is improving: 46 traditional IPOs raised $28.2B through May 2026 vs 25 deals for $11.1B in the same period a year ago. The 2025 exit bottleneck has not fully cleared; strategic M&A appetite is selective and sponsor-to-sponsor deals face valuation scrutiny. GP-led secondaries and continuation vehicles remain the primary liquidity mechanism.
+
+Deal flow: 39 deals of $5B or more YTD, total value approx $957B, roughly triple the year-ago pace. Energy sector M&A is in focus given Iran deal dynamics. Deal volume at smaller end is down 34% as capital concentrates in higher-conviction bets.
+
+Bottom line: The Iran MOU is the key regime shift this week; durable Strait reopening supports European corporate margins and eases ECB pressure, but a hawkish Fed, tight credit spreads, and uncertain deal durability keep financing costs elevated and cap exit multiples heading into H2.
