@@ -1,0 +1,34 @@
+MARKETS BRIEFING - Monday 22 June 2026
+
+The mood this morning is cautiously risk-off. US equity futures are off about half a percent after last week ended with a hawkish Fed pivot under new Chair Kevin Warsh. The key event today is ECB President Lagarde's testimony before the European Parliament at 15:00 CET.
+
+GENERAL MACRO
+
+Tape and risk tone
+Asia closed mixed. Nikkei 225 +1.73% at 72,481, lifted by yen weakness and tech momentum. Hang Seng -0.98% at 23,691; Shanghai -0.35% at 4,076. US markets were closed Friday for Juneteenth. S&P 500 futures -0.50% at 7,533; Nasdaq futures -0.49% at 30,571. Europe opening softly: DAX -0.16% near 24,986, FTSE 100 -0.35% near 10,363, CAC +0.38% near 8,189, Euro Stoxx 50 near 6,320. AEX level not confirmed this morning. VIX at 16.78, up 2.3%.
+
+Rates
+US 10Y at 4.49%, 2Y at 4.21%, 2s10s near +28bp. Fed held at 3.50-3.75% in June but 9 of 18 FOMC members now project a hike by year-end, a clear hawkish shift under Warsh. Bund 10Y near 2.95-3.05%, at multi-year highs, after the ECB raised its deposit rate to 2.25% on 11 June, its first hike since 2023 and a reversal of eight consecutive cuts.
+
+FX and commodities
+EUR/USD 1.1460 (-0.1%), DXY 100.92 (+0.1%), USD/JPY 161.66 (+0.2%). Gold $4,197 (-1.1%). Brent $79.19 (-0.8%), WTI $75.49 (-0.5%), both roughly $15 below recent crisis highs as markets price in Hormuz reopening. TTF gas 42.86 EUR/MWh (+1.8%). Copper $6.31/lb (-0.4%).
+
+Credit
+US IG spreads near 80bp, HY OAS near 285bp, both close to historic tights with limited buffer.
+
+Today's catalysts
+09:30 CET: Lagarde keynote at ECB digital payments conference in Frankfurt (no policy focus). 10:00 CET: ECB statistical releases including long-term interest rates data. 15:00 CET: Lagarde testimony before European Parliament ECON Committee, the day's main market event. No major US macro data on this post-holiday Monday.
+
+Overnight headlines
+Iran/US MoU signed 15 June established a 60-day ceasefire and partial Hormuz reopening, but Geneva follow-up talks were abruptly postponed on 19 June. Ships have not been targeted in the strait for two consecutive nights. Oil is front-running best-case Hormuz normalisation but the Geneva breakdown keeps a residual risk premium. The Fed June dot plot surprised to the hawkish side under Warsh; equities sold off before recovering on a strong semiconductor session (Intel +10.6%, Micron +8.7%, AMD +4.9% on the week to 18 June).
+
+PRIVATE EQUITY OVERLAY
+
+Financing
+3M Euribor running above 2.40% post the ECB hike; term SOFR near 3.75%. First-lien private credit all-in yields expected to trough around 8.0-8.5%. Leveraged loan spreads are near historic tights (B/BB paper in the L+300-350bp area), so deals are clearing, but the ECB hike adds 25bp to the EUR base rate floor and squeezes European LBO economics on the margin. Direct lending remains open and competitive.
+
+Comps and exits
+Tech and software public multiples are holding firm after the semiconductor rally, supporting sponsor exit valuations in digital sectors. US IPO market is improving: 46 deals raised $28.2B through end-May, more than double a year ago. US M&A value reached $1.2 trillion in the first five months, nearly double H1 2025, on fewer but larger transactions. Sponsors continue to lean on continuation vehicles and secondaries over traditional exits.
+
+BOTTOM LINE
+The ECB hike has raised EUR financing costs and is squeezing European LBO returns at the margin; Lagarde's 15:00 CET parliamentary testimony is the day's market event to watch, and any signal of further hikes would reprice both cost of debt and NAV discount rates across European portfolios.
