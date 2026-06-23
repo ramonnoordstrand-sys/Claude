@@ -1,0 +1,33 @@
+Risk tone this morning is cautiously positive: progress in US-Iran Strait of Hormuz talks is keeping energy prices well below their crisis peak and Asia closed mostly higher, but Europe opened flat as markets wait on flash PMI readings that start at 09:15 CET. The Eurozone PMI bundle is the key release of the day.
+
+GENERAL MACRO
+
+Tape and risk tone: Nikkei +1.9% to 72,572. Shanghai +1.8% to 4,163. Hang Seng the outlier at -0.7% to 23,769. Europe opened flat: Euro Stoxx 50 6,301 (+0.1%), DAX 25,014 (+0.1%), CAC 8,408 (-0.2%), AEX 1,080 (+0.2%), FTSE 10,363 (flat). US futures modestly firm early; specific premarket levels not confirmed. VIX around 18.8.
+
+Rates: US 10Y at 4.51%, 2Y at 4.22%, 2s10s spread +29bps -- a gently positive slope. German 10Y Bund near 2.9%, approaching its lowest since mid-March as easing oil takes the edge off the inflation picture. The ECB lifted the deposit rate to 2.25% on June 11 citing war-related inflation; no follow-on move is priced imminently. The Fed held rates at 3.50-3.75% on June 17; residual hike risk is still on the table.
+
+FX and commodities: EUR/USD 1.1420, modestly offered. Dollar index 100.76, broadly stable. USD/JPY near 161.3. Brent $77.64 (+0.2%), WTI $74.07 (+0.3%) -- a long way below the March 19 peak near $166 as ceasefire progress and early Hormuz flow restoration filter through. Gold just below $4,150, fading as firmer Fed expectations weigh on the safe-haven bid. TTF European gas around EUR 42.5/MWh, trimming earlier spike gains on Hormuz progress. Copper futures near $6.32/lb.
+
+Credit: IG spreads estimated near 80-100bps, HY near 285bps based on early-2026 positioning; the post-ECB hike and war premium have likely nudged both modestly wider, though Bund-led rate moves are partially offsetting total yield pressure. Primary markets remain open.
+
+Today's catalysts (CET):
+08:45 France Business Confidence (consensus 101, prior 101) and Climate Indicator (consensus 93, prior 95)
+09:15 France PMI Flash -- Manufacturing, Services, Composite
+09:30 Germany PMI Flash -- Manufacturing, Services, Composite
+10:00 Eurozone PMI Flash -- Manufacturing, Services, Composite
+10:30 UK PMI Flash -- Manufacturing, Services, Composite
+15:45 US PMI Flash -- Manufacturing, Services, Composite
+16:00 Richmond Fed Manufacturing Index (consensus 7, prior 9)
+No central bank decisions or speakers are flagged for today.
+
+Overnight headlines: Iran proposed a formal roadmap to the US for reopening the Strait of Hormuz and ending the war, with nuclear talks to be deferred; a communication channel has been established to support safe movement of commercial vessels. Shipping through the Strait remains very low but shows early signs of recovery. Gold is selling off as Fed tightening expectations firm. No major corporate stories overnight.
+
+PRIVATE EQUITY OVERLAY
+
+Financing: Euribor 3M is estimated near 2.25% following the June 11 ECB hike (from 2.08% in March). Term SOFR remains relevant for dollar paper. Private credit all-in yields in Europe run 8.5-11% for senior secured, 10-13.5% for unitranche. Leveraged loan and HY markets are open but conditions have tightened since the conflict began in late February -- pricing is up across the board, diligence timelines are longer, and lenders are scrutinising energy-cost and supply-chain exposure more carefully. Direct lenders are still clearing deals for quality sponsors in defensible sectors.
+
+Comps and exits: EV/EBITDA multiples have compressed in energy-exposed and consumer-facing names, while healthcare and business services multiples are holding up. The IPO window is effectively closed; strategic M&A is the primary exit route. Bid-ask gaps on large-cap buyouts remain wide.
+
+Deal flow: H1 2026 deal volume is running roughly 34% below H1 2025, but aggregate deal value is up about 10%, reflecting concentration in larger, higher-conviction transactions. Healthcare take-privates and roll-ups, business services, and industrials mid-market buy-and-builds are the most active segments. Tech and consumer are quiet given AI-driven valuation uncertainty and margin pressure.
+
+Bottom line: Hormuz progress is the most meaningful positive shift in the macro backdrop this month -- if today's PMI readings confirm that European activity is holding, it supports deal underwriting assumptions; a weak Germany print, by contrast, would extend the pause in exit-market activity and keep financing conditions tight.
