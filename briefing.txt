@@ -1,0 +1,41 @@
+Markets Morning Briefing - Wednesday 24 June 2026
+
+Tone this morning is firmly risk-off. A sharp global selloff in technology and memory chip stocks, beginning in Asia overnight, is rolling into European open. The single most important event today is the Fed bank stress test results after the US close, with Micron earnings as an additional chip-sector catalyst.
+
+General macro
+
+Tape and risk tone:
+Asian equities closed sharply lower: Nikkei 225 at 69,788 down 3.6%, Shanghai Composite at 4,106 down 1.4%, Hang Seng at 23,769 down 0.7%. Nasdaq-100 futures fell approximately 2.7% overnight; S&P 500 futures were under significant pressure heading into the European open. European indices are opening lower from Tuesday closes of Euro Stoxx 50 around 6,293, DAX around 24,925, FTSE 100 around 10,472. AEX and CAC current levels not confirmed but both expected lower on the Ifo miss and tech spillover. VIX level not confirmed; implied volatility is elevated given overnight move magnitudes.
+
+Rates:
+US 2Y: 4.21%. US 10Y: approximately 4.51%. 2s10s curve: approximately plus 30 basis points, positively sloped. 10Y Bund: approximately 2.97%. ECB reversed course and hiked 25 basis points at its June meeting, driven by Iran-related energy inflation that pushed the ECB away from the rate-cut path; analysts at Morgan Stanley no longer expect cuts in 2026. The Fed held at 3.50 to 3.75% for a fourth consecutive meeting; market pricing one further 25 basis point hike by October.
+
+FX and commodities:
+EUR/USD: approximately 1.147. Dollar index above 101, a new 2026 high, on safe-haven demand. USD/JPY: approximately 161 to 162. Brent: $77.2/bbl. WTI: $73.4/bbl. Both lower after Washington granted Iran a 60-day oil-sales license, signaling progress toward a peace framework. Gold below $4,150/oz. TTF European gas: approximately 42.5 EUR/MWh; EU storage at 45.6% of capacity, roughly 14% below the 5-year average. Copper levels not available at time of writing.
+
+Credit:
+US IG OAS: approximately 80 basis points. US HY OAS: approximately 285 basis points. Both near historical tights; the risk-off session will test whether spreads can hold.
+
+Catalysts today (CET):
+08:00 - Germany Ifo Business Climate Jun: actual 84.9, consensus 85.5, miss.
+12:30 - US New Home Sales May: actual 622K, consensus 640K, prior 640K, miss.
+12:30 - US Current Account Q1: actual -$190.7B, consensus -$220B, beat.
+14:30 - EIA Crude Oil Stocks (Jun 19): actual draw of 8.3M barrels, large.
+17:00 - US 5-Year Note Auction: cleared at 4.182%.
+After US close: Fed bank stress test results. Earnings: Micron, Paychex, Jefferies Financial.
+
+Overnight headlines:
+US granted Iran a 60-day oil-sales license; a framework agreement ending the US-Israel-Iran war is reportedly close. The Strait of Hormuz remains restricted, with more than 500 vessels waiting to exit the Gulf, but reopening is expected to form part of any deal. Brent has retraced from a 50%-plus conflict-peak to just 7% above pre-war levels. A broad tech and chip selloff hit Apple, Nvidia, and Micron on the back of steep losses in South Korean memory names. SpaceX priced its inaugural bond issuance.
+
+Private equity overlay
+
+Financing:
+3-month Euribor: 2.41%, above the initial 2026 consensus of 1.9 to 2.1%, as the ECB hiked rather than cut due to energy-driven inflation. Term SOFR: approximately 3.5 to 3.7%, reflecting the Fed on hold. Leveraged loan and HY bond markets remain open: $77B in loans and $22.6B in HY bonds priced year-to-date. Private credit and BSL competition is intensifying, with looser covenants and PIK structures as growing structural risks. A combined $760B refinancing wall in HY and leveraged loans matures through 2028.
+
+Comps and exits:
+Technology and semiconductor public EV/EBITDA multiples under pressure today; a sustained selloff could compress entry and exit assumptions for software and hardware portfolio companies. The IPO window has been open in recent months but risk-off sessions delay execution. Strategic M&A remains constructive and active.
+
+Deal and sector flow:
+PE dealflow is recovering in tech and healthcare; mega-deals are increasingly hybrid, combining syndicated and private credit. Iran de-escalation is a meaningful tailwind for energy-cost-exposed industrials, logistics, and chemicals in the portfolio.
+
+The Euribor overshoot above prior expectations and the chip-sector rout are the two factors most directly pressuring PE financing costs and asset pricing today; the Iran de-escalation trajectory provides a partial offset on commodity costs for portfolio companies with real-economy exposure.
