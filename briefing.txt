@@ -1,0 +1,31 @@
+MORNING BRIEFING -- 25 June 2026
+
+Risk tone is defensive heading into the European open: the dollar sits at a 13-month high, gold is at 8-month lows, and European equity futures are softer. The day's pivotal release is US May PCE at 14:30 CET, where headline inflation is expected to print 4.1% year-on-year -- a number that will sharpen or ease the sharp repricing of September Fed hike odds that has taken place this week.
+
+GENERAL MACRO
+
+Tape and risk tone: Asian session closed mixed; specific Nikkei, Hang Seng, and Shanghai closes unavailable at publication time. Euro Stoxx 50 and Stoxx 600 futures were pointing -0.9% and -0.7% respectively at the pre-open. DAX was last around 24,777 (-0.5%), FTSE 100 near 10,437 (+0.1%). AEX and CAC specific levels not confirmed. US futures had been modestly positive in Tuesday evening trading (S&P 500 +0.1%, Nasdaq 100 +0.3%) before a tech-led Wednesday sell-off weighed on global sentiment. VIX not confirmed but tech selling has kept implied vol elevated.
+
+Rates: US 10Y is around 4.45-4.55%, US 2Y around 4.17%, giving a 2s10s spread of roughly +30 bps -- modestly positive after a prolonged inversion. 10Y Bund not confirmed at time of writing. The ECB hiked its deposit rate 25 bps in June (its first increase since 2023), citing persistent inflation; markets assign very low probability to any ECB cut in 2026. New Fed Chair Kevin Warsh held in June but markets now price roughly 70% odds of a September hike, up sharply from 29% a week ago.
+
+FX and commodities: DXY at approximately 101.6 (13-month high). EUR/USD has fallen to a one-year low. USD/JPY not confirmed. Brent crude settled at $73.74 on Wednesday (-4.3% on the session), WTI at $70.34 (-3.9%), both at their lowest since before the US-Iran conflict, driven by resumed tanker traffic through the Strait of Hormuz. Gold fell over 3% to below $4,000/oz (8-month low) on dollar strength and reduced safe-haven demand. European gas (TTF) near EUR 42.5/MWh with EU storage at 45.6%, roughly 14% below the five-year average. Copper near $6.39/lb.
+
+Credit: IG spreads approximately 80 bps, HY spreads approximately 285 bps. Spreads remain historically tight, though US leveraged loan interest coverage at around 4.6x is a watch item for floating-rate borrowers.
+
+Today's catalysts (CET):
+14:30 -- US May PCE: headline seen +0.5% m/m / +4.1% y/y (prior +3.8%); core PCE +0.37% m/m / +3.3% y/y (prior +3.3%). Economists expect May to be the inflation peak; an upside surprise would accelerate September-hike pricing.
+
+Overnight headlines:
+Iran: The US-Iran Islamabad MOU (signed June 17) was followed by US strikes on Fordow, Natanz, and Isfahan nuclear facilities on June 21. Talks in Switzerland stalled Sunday over the Strait of Hormuz and Iran's nuclear program. Tanker traffic is resuming and oil is falling, but the peace process is fragile and re-escalation risk is live.
+Dollar and rates: Fed hike expectations combined with safe-haven demand are driving EUR/USD lower and pressuring EM assets broadly.
+Equities: A tech-sector sell-off on Wall Street Tuesday weighed on global sentiment and boosted dollar liquidity demand.
+
+PRIVATE EQUITY OVERLAY
+
+Financing: ECB deposit rate now around 2.0-2.25% post-June hike; 3m Euribor likely 2.3-2.5%. Term SOFR (3m) approximately 4.3-4.4% with the Fed on hold. Private credit is absorbing deal flow that leveraged loan markets are not supporting. HY spreads at 285 bps push all-in costs on new HY paper to roughly 8-9%. Deals are clearing, principally in healthcare, but existing floating-rate debt is under pressure as interest coverage on the US leveraged loan index has fallen to around 4.6x versus 6x in 2022.
+
+Comps and exits: Tech and consumer public EV/EBITDA multiples are compressed amid AI-driven valuation uncertainty and margin pressure. Healthcare and infrastructure are resilient. IPO windows remain narrow. GP-led secondaries and continuation vehicles are the primary liquidity mechanism. PE deal volume in H1 2026 is roughly 34% below H1 2025 by count, though average deal size has risen sharply as capital concentrates in high-conviction bets.
+
+Deal flow: Healthcare take-privates and platform roll-ups are the most active segment. No significant new transactions confirmed overnight. Take-privates and carve-outs remain the main source of large-cap flow given ample dry powder and private credit capacity.
+
+Bottom line: A hot PCE print at 14:30 CET today would cement September hike pricing, drive the dollar and yields higher, and further tighten financing conditions for portfolio companies -- watch the reaction in HY spreads and EUR/USD. Iran peace-process fragility is the key tail risk on the geopolitical side.
