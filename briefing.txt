@@ -1,0 +1,72 @@
+MORNING MARKETS BRIEFING - Friday 27 June 2026
+Prepared for Amsterdam, CET
+
+The tone this morning is decidedly risk-off. Yesterday's US May PCE inflation print came in at 4.1% year-on-year - the highest reading since April 2023 - and it has revived Fed rate-hike bets that were largely dormant since early year. Asian equities sold off hard overnight and US futures point modestly lower. The single most important event today is ECB President Lagarde's hearing before the European Parliament's ECON committee at 15:00 CET, where she will face questions on the ECB's next steps following the June 11 rate hike.
+
+
+TAPE AND RISK TONE
+
+Asia closed sharply lower. Japan led the declines: the Nikkei 225 fell roughly 2.9%, losing more than 2,000 points to around 70,240, with semiconductor-related stocks hammered. South Korea's KOSPI dropped a similar magnitude, around 3%. The selloff reflects deep concern among import-dependent economies about rising US rates, higher energy costs, and stretched valuations in tech after a long run. Hong Kong's Hang Seng was down around 1.8% in recent sessions; Shanghai data for today's close is not yet confirmed.
+
+US futures are softer but not collapsing: S&P 500 e-mini futures are around -0.4% and Nasdaq 100 futures near -0.3%. Europe was set to open modestly lower in sympathy. The DAX closed yesterday near 24,995; early premarket indications for Euro Stoxx 50 were fractionally negative. FTSE, CAC, and AEX opening levels are not confirmed at time of writing.
+
+VIX closed yesterday at 18.6 and futures are trading near 19.0. Elevated but not panicked; the market is recalibrating rather than fleeing.
+
+
+RATES
+
+The May PCE shock is the story in rates. US 10-year Treasuries traded around 4.45-4.49%, having spiked on the data release yesterday and then partially stabilised. The 2-year yield is not confirmed at this hour but is likely well above 5% given markets are now pricing a September Fed hike as the most probable outcome. The 2s10s spread remains inverted. The Fed held at its June 17 meeting but dropped any reference to cuts and signalled a hike is on the table. Markets have September 2026 circled.
+
+Germany 10-year Bund yield is around 2.92-3.05%, holding near multi-year highs. The ECB delivered a 25bp hike on June 11, bringing the deposit rate to 2.25%. Swap markets now assign around 87% probability to no cut in 2026, with the baseline being another possible hike if euro-area inflation stays stubborn. Lagarde's ECON committee appearance today at 15:00 CET is the key read-across.
+
+
+FX AND COMMODITIES
+
+EUR/USD is around 1.1363. The dollar index (broad measure) was near 119-120 on recent estimates, with the greenback firm on rate-hike repricing. USD/JPY is around 161.5, close to multi-decade highs; the Bank of Japan raised its policy rate to 1.0% but that has not been sufficient to arrest yen weakness given the widening rate differential.
+
+Oil is the good-news story this morning. WTI crude has dropped below $70 per barrel and Brent has eased below $75, with both extending declines for a fourth consecutive session. The driver is diplomacy: progress on a US-Iran agreement is paving the way for the Strait of Hormuz to reopen and Persian Gulf crude exports to normalise. Goldman Sachs has cut its Brent Q4 target to $80 from $90.
+
+Gold is at roughly $4,008 per troy ounce, off about 0.5% on the session, as real yield expectations rise.
+
+Copper forward estimates for June 2026 put the month's average around $6.00 per pound; an intraday quote is not confirmed at time of writing.
+
+TTF European natural gas: no reliable intraday quote confirmed at this time.
+
+
+CREDIT
+
+Investment-grade OAS is around 80bp - historically tight, near mid-1990s levels. High-yield OAS is approximately 285bp; spreads widened roughly 50bp during the February-March Iran war shock and have not fully retraced. The credit market has been resilient but the inflation reset adds a new variable: higher-for-longer rates compress debt serviceability headroom for leveraged issuers.
+
+
+TODAY'S CATALYSTS (CET)
+
+- 08:30 CET: ECB statistical releases - Consolidated Banking Data, euro-area investment fund statistics, Supervisory Banking Stats.
+- 12:15 CET: ECB Board member Cipollone speaks (Rome, constitutional anniversary event).
+- 12:30 CET: ECB Board member Elderson speaks (Madrid, sustainable finance conference).
+- 13:30 CET: US Advance Goods Trade Balance for May. Minor release; consensus not confirmed.
+- 15:00 CET: ECB President Lagarde - ECON committee hearing, European Parliament. Key event; watch for tone on further hikes.
+- 15:00 CET: ECB publishes weekly APP and PEPP update.
+
+No Fed speakers are confirmed for today. The key macro read was yesterday's PCE (4.1% headline, 3.4% core vs 3.3% expected).
+
+
+OVERNIGHT HEADLINES
+
+- Iran-US diplomacy. The Trump administration has signed a framework agreement opening the path to Strait of Hormuz normalisation. Oil is responding sharply lower; this is a meaningful supply-side relief if it holds, though conflict has not formally ended.
+- PCE at 4.1%. The biggest single data point this week. Iran-driven energy pass-through plus sticky services inflation (restaurants, hotels, healthcare) drove the headline. Core at 3.4% surprised to the upside. This is the dominant driver of this morning's risk-off move.
+- Bank of Japan at 1%. BOJ delivered a 25bp hike to bring rates to 1.0%, the highest since 1995. Yen remains weak near 161.5 as the differential to US rates overwhelms domestic tightening.
+- Micron earnings. Strong results from Micron earlier this week had briefly boosted tech sentiment; that is now being partially offset by the macro reset after PCE.
+- AI capex wave. The broad tech-and-AI investment theme continues to underpin equity valuations in the US, but the tape is sensitive to any rate shock.
+
+
+PRIVATE EQUITY OVERLAY
+
+Financing: 3-month Euribor is 2.31%, down slightly day-on-day but still elevated after the ECB's June hike. Term SOFR has hovered around 3.7% on a three-month basis. A September Fed hike, if delivered, would push the all-in cost of dollar-denominated leveraged credit materially higher. The ECB deposit rate at 2.25% means euro-denominated floating-rate debt is no longer cheap; financing costs for euro LBOs are structurally higher than the 2021-22 vintage.
+
+Leveraged loan and private credit tone is mixed. BSL markets executed jumbo deals for Electronic Arts and Sealed Air recently, showing appetite for the right credit at the right price. Private credit is navigating its first real stress test: BDC redemption requests have emerged as a structural vulnerability, and the AI-driven reassessment of software sector credit quality adds idiosyncratic risk. Wall Street banks are regaining share from direct lenders in large-cap. Spreads in leveraged loans are around 3.7% over SOFR; private credit deals command a slight illiquidity premium above that.
+
+Comps and exits: Public EV/EBITDA multiples in tech and healthcare remain supportive from a historical perspective, though the rate reset is applying modest multiple compression. The IPO window has been cautiously open in 2026 on the back of AI enthusiasm, but today's PCE-driven risk-off could dampen near-term issuance sentiment. Strategic M&A is active; the Iran-conflict backdrop earlier in the year slowed some cross-border deal certainty but sponsor pipelines remain full with record dry powder.
+
+BOTTOM LINE
+
+The hot PCE print is the regime-changer on the table this morning: it reprices the Fed path toward a September hike, lifts the risk-free rate, and adds cost pressure to leveraged balance sheets at the same time as public multiples face modest headwinds. Partly offsetting this, falling oil on Iran diplomacy provides some relief for energy-intensive portfolio companies and may ease future inflation readings. The net is: financing costs are staying higher for longer, exit windows require patience, and any rate-sensitive sector in a portfolio warrants a close look at covenants and interest coverage.
