@@ -1,0 +1,37 @@
+MARKETS BRIEFING - Sat 27 Jun 2026, 07:00 CET
+
+Risk-off. Asian Friday session saw a sharp tech-led sell-off after Apple dropped 9.4% on AI-driven hardware cost pressures, sending the KOSPI to a circuit breaker. The offset is oil: Saudi Aramco reopened Ras Tanura, erasing the Middle East war-risk premium built up since spring. Today is a Saturday; European and US cash markets are closed. Key event: ECB Schnabel speech at 15:45 CET.
+
+TAPE AND RISK TONE
+Asian close (Fri): Nikkei -4.2% to 69,361. Hang Seng -1.8% to 22,672. Shanghai approx. 4,027. KOSPI -6.7% to 8,337 (circuit breaker; approx. USD 2.4bn institutional selling).
+US futures (Sat AM): S&P 500 5,420 (-0.4%), Nasdaq 100 19,641 (-1.1%).
+European close (Fri): Euro Stoxx 50 6,207 (-1.0%), DAX 24,673 (-1.3%), CAC 40 8,357 (-0.9%). AEX and FTSE not confirmed.
+VIX: approx. 18.9 at Thu close; likely higher after Friday.
+
+RATES
+US 2Y 4.13%, 10Y 4.40%, 2s10s +27bp. ECB hiked 25bp at its June meeting (first since 2023) on energy inflation; now forecasts headline CPI 3.0% in 2026. Markets price 86.5% probability of no ECB cut in 2026. Fed signalled growing support for a late-2026 hike at its June 17 meeting. Bund 10Y not confirmed but has moved higher. Dual central bank hawkishness is the dominant rate theme.
+
+FX AND COMMODITIES
+EUR/USD approx. 1.138. DXY 101.17 (-0.25%). USD/JPY approx. 161.6.
+Oil: Brent -2.6% to USD 73.11, WTI -3.2% to USD 69.63 (lowest since February) as Ras Tanura reopening restores 2mbpd+ of Gulf supply; total shut-in Gulf production down from 11.7 to 9.6mbpd. Gold +0.3% to USD 4,038/oz. Copper below USD 6/lb (seven-week low). TTF not confirmed.
+
+CREDIT
+IG spreads approx. 80bp, HY approx. 285bp. Tight historically but widening pressure building.
+
+TODAY'S CATALYSTS (CET)
+03:30 - China Industrial Profits YTD YoY: actual 18.8% vs consensus 20.0%, prior 18.2%. Miss.
+15:45 - ECB Schnabel speech. Watch for post-hike rate path tone given collapsing oil.
+
+OVERNIGHT HEADLINES
+1. Ras Tanura fully reopened per June 17 Islamabad Memorandum; war-risk premium in energy effectively gone.
+2. Apple -9.4% to USD 278 on aggressive hardware price hikes tied to AI memory cost surge; triggered broad Asia tech sell-off.
+3. Micron USD 22bn HBM commitments through 2027; initial 12% gain erased by macro.
+4. Fed June 17 hawkish shift: market pricing now leans toward a hike in late 2026.
+
+PRIVATE EQUITY OVERLAY
+Financing: 3M Euribor likely 2.5-3.0%+, term SOFR approx. 4.5%. IG at 80bp and HY at 285bp tight but deal tone cautious. Private credit first-lien yields flooring 8.0-8.5%; direct lending at approx. 90% of middle-market LBO volume.
+Comps and exits: Tech sell-off compressing AI-adjacent public multiples; IPO window narrowing. Healthcare, infrastructure, and industrials exits more accessible via strategic M&A.
+Deal flow: H1 2026 PE deal count -67% vs H1 2025 by number, aggregate value +10%. Notable: Blackstone/TPG buying Hologic (USD 18.3bn), Advent/FedEx buying InPost (USD 9.3bn), Blackstone/EQT buying Urbaser (USD 6.6bn).
+
+BOTTOM LINE
+The Ras Tanura reopening structurally removes the energy inflation overhang, which supports medium-term rate normalisation and eases portfolio company input costs. Near term the picture is risk-off: tech multiples repricing, dual central bank hawkishness raising LBO financing costs, and equity volatility narrowing exit windows.
