@@ -1,0 +1,39 @@
+Sunday 28 June 2026 - Morning Briefing (CET)
+
+The mood heading into Monday is cautious and risk-off. A sharp global selloff in AI and semiconductor stocks drove the Nikkei down more than 4% on Friday, and the Federal Reserve's June dot plot delivered the most hawkish surprise since 2022, signalling a potential rate hike rather than the cuts markets had priced. The partial offset is oil: Brent has collapsed more than 10% on the week to around $72 as Strait of Hormuz transits resume and US-Iran peace talks advance. The most important data point for the week is the ongoing repricing of the US rate path following Friday's in-line PCE print, which cooled hike expectations at the margin but did not reverse the broader hawkish shift.
+
+GENERAL MACRO
+
+Tape and risk tone:
+Asian equities closed sharply lower on Friday. Nikkei -4.2%, Hang Seng -1.8% to 22,672, Shanghai -2.3%, all hit by the global AI and semiconductor rout. In Europe, the Euro Stoxx 50 fell 0.9% to 6,212, DAX -1.3%, CAC -0.4%. The FTSE 100 was the relative outperformer, +0.7% to 10,530. AEX Friday close not confirmed at time of writing. US equity markets ended the week near their lows. VIX closed around 18.9, elevated but not at stress levels. US futures on Sunday not yet active.
+
+Rates:
+US 10Y Treasury near 4.50%, US 2Y near 4.18%, giving a 2s10s curve of roughly +30bp. The 2Y surged more than 16bp on the June FOMC day - the largest single-session move on a Fed meeting day since March 2008 - as the dot plot indicated a potential rate hike in 2026, reversing prior cut expectations. German 10Y Bund at 2.85%. The ECB is on hold; the benchmark EUR STR stands at 1.93% following unchanged decisions in December 2025 and February 2026. Swap markets are currently pricing three 25bp ECB rate increases through 2026 and a flat Fed through year-end, with Friday's in-line PCE limiting further drift.
+
+FX and commodities:
+EUR/USD near 1.1384, DXY around 101.4 after retreating from a week-high of 101.8 following the PCE release. USD/JPY around 161.8, near recent highs. Brent crude ~$72/bbl and WTI ~$68.86/bbl, the lowest since February, as Strait of Hormuz transits accelerate and Goldman Sachs cuts its Q4 Brent forecast to $80/bbl from $90/bbl. Gold at approximately $4,040/oz, near multi-month lows, struggling to build on a modest bounce. TTF European gas and copper specific Friday levels not confirmed at time of writing.
+
+Credit:
+US investment-grade OAS near 80bp. High yield spreads around 285bp. Both remain historically tight despite the equity selloff, suggesting credit has not yet repriced the risk of a Fed hike. The leveraged loan market shows a 90/10 dynamic: roughly 90% of issuers stable and performing, 10% in complex restructuring.
+
+Today's catalysts (Monday 29 June, CET):
+Specific scheduled releases for 29 June were not confirmed at time of writing. Check econoday.com for full calendar and consensus. Key weekly focus: ECB and Fed speaker commentary on the hawkish pivot, any ceasefire developments on Iran, and European CPI flash readings later in the week.
+
+Overnight and weekend headlines:
+- Iran war de-escalation: The 2026 conflict caused what the IEA called the largest oil supply disruption in history. Strait of Hormuz transits have now accelerated materially, driving the sharp oil reversal. Equity markets have broadly absorbed the earlier shock with the S&P 500 back near all-time highs.
+- Fed hawkish pivot: The June dot plot shifted to signal a rate hike in 2026 rather than cuts, a major regime change. The 2Y yield move on FOMC day was the largest since March 2008.
+- AI selloff: Global AI and semiconductor stocks entered sharp correction. Analysts cited "super bubble" risks. Nikkei's 4.2% Friday drop was concentrated in this theme.
+- US tariffs: The 2025-era tariff regime is facing legal setbacks in US courts, adding trade policy uncertainty.
+
+PRIVATE EQUITY OVERLAY
+
+Financing:
+SOFR overnight rate at 3.64%; CME Term SOFR widely used across USD loan markets. Euribor continues to be published; specific June 3M levels not confirmed. Private credit first-lien yields expected to trough at 8.0-8.5% in 2026. The Fed's hawkish pivot is an incremental headwind to new LBO financing cost assumptions. IG and HY spreads remain tight, so primary markets are functioning, but the 10% distressed tail in leveraged loans warrants watch.
+
+Comps and exits:
+H1 2026 deal volume is down 34% versus H1 2025, but average deal size is up nearly 4x, reflecting concentration in large-cap high-conviction transactions. IPO windows remain effectively closed for most sponsors. GP-led secondaries and continuation vehicles are the primary liquidity mechanism. The AI stock correction this week will pressure public EV/EBITDA multiples in technology, widening the bid-ask gap on tech exits near-term. Healthcare remains the most resilient sector for deployment.
+
+Deal and sector flow:
+KKR completed acquisition of Arctos Partners (sports investing and GP solutions) for approximately $1.4bn in initial consideration. KKR also reported over $900m in monetisation income in Q2, signalling that large-cap exit recovery continues even as mid-market activity is subdued. Healthcare take-privates and platform roll-ups are maintaining pace.
+
+Bottom line: The hawkish Fed pivot is the week's key regime change - it raises the risk-free rate embedded in LBO underwriting, increases floating-rate debt service costs for leveraged portfolio companies, and compresses the private/public valuation gap. The oil collapse is a net positive for consumer-facing and industrial holdings but reduces carry for energy positions.
