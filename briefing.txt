@@ -1,0 +1,74 @@
+MORNING MARKET BRIEFING -- Monday 29 June 2026
+
+This morning's tone is cautious risk-off, with tech under ongoing pressure following last week's report that OpenAI is delaying its IPO until 2027, and Asia closing mixed to lower. The main event this week is US nonfarm payrolls on Thursday (July 2), consensus 172k; today's calendar is light, making it a macro positioning day ahead of a data-heavy week.
+
+---
+
+TAPE AND RISK TONE
+
+Asia closed broadly lower. The Nikkei 225 fell 0.89% to 68,743, and the Shanghai Composite dropped 2.26% to 4,027. Hang Seng closed Friday (June 26) at 22,672, down 1.8%; today's close was not confirmed at writing time.
+
+US futures: Nasdaq 100 futures around 29,370-29,740 (down on the week), reflecting continued softness in mega-cap tech. S&P 500 futures were subdued; no precise level available but directionally lower. Europe opened softer: Euro Stoxx 600 near 639, DAX -1.3% to 24,671, FTSE 100 -0.2% to 10,508, AEX -0.65% to 1,061. CAC data not confirmed.
+
+VIX: 18.89 as of June 25; likely stable to slightly higher on today's tech tone.
+
+---
+
+RATES
+
+US 10Y Treasury around 4.40%. US 2Y yield not confirmed at writing time. The 2s10s spread and Bund yield not available from real-time sources this morning. Fed pricing has shifted hawkish: markets assign roughly 63% probability to a September hike and 80% for December. ECB has moved decisively to hike territory -- markets were fully pricing a 25 bp ECB hike at the June meeting -- a sharp reversal from earlier cut expectations driven by Middle East-linked energy inflation.
+
+---
+
+FX AND COMMODITIES
+
+EUR/USD around 1.1410, DXY near 101.1 (dollar weakened for a second session). USD/JPY around 161.6-161.8 -- yen remains under pressure despite JPY carry dynamics.
+
+Brent crude at $72.13 (-4.5%); WTI at $68.69 (-4.5%). Oil continued its post-Iran-deal slide -- a US-Iran peace framework signed June 18 reopened the Strait of Hormuz and lifted the US naval blockade. Prices have fallen nearly 7% from pre-deal peaks, though analysts note full inventory recovery could take into 2027.
+
+Gold near $4,040/oz, edging higher after May PCE came in line with expectations and slightly trimmed near-term Fed hike urgency.
+
+TTF European natural gas (July contract): opened around EUR 40.4/MWh.
+
+Copper: real-time price not confirmed this morning.
+
+Credit: US IG OAS broadly around 80 bps. HY spreads widened 15-30 bps on new issues from Q4 2025 to Q1 2026; precise today's level not available.
+
+---
+
+TODAY'S CATALYSTS
+
+No major US releases scheduled for June 29. Alphabet joins the Dow Jones Industrial Average today (replacing Verizon) -- symbolic but watch for passive-index rebalancing flows.
+
+June 30 (CET morning/midday): US Conference Board Consumer Confidence, May JOLTS; Nike and Constellation Brands earnings post-close.
+July 1: Fed Chair Kevin Warsh speaks.
+July 2: US Nonfarm Payrolls, consensus 172k (prior not confirmed).
+No ECB speaker or decision scheduled this week confirmed.
+
+---
+
+OVERNIGHT HEADLINES
+
+1. US-Iran peace deal: framework signed June 18 is holding. Oil at post-deal lows. Fuel price normalisation expected to take months, with consumer impact delayed into 2027.
+
+2. OpenAI reportedly delaying IPO to 2027 (reported June 26). Company considering whether to list below $1T valuation this year or wait for a cleaner window. This weighed on the AI trade broadly last week -- Nasdaq tech names and AI-adjacent stocks sold off.
+
+3. Tech cost inflation: Apple and Microsoft announced price increases on iPhone and Xbox last week, adding to concerns around consumer tech margin pressure.
+
+4. Alphabet/DJIA: Alphabet officially replaces Verizon in the Dow today, broadening the index's AI and cloud exposure.
+
+---
+
+PRIVATE EQUITY OVERLAY
+
+Financing: Fed Funds rate tracking toward 3-4% by year-end per survey consensus. Term SOFR broadly consistent. Euribor projected 2.75-3.25% medium-term. Leveraged loan and HY spreads have widened 15-30 bps on new issues since Q4 2025. Private credit (now $1.8-3.5T market) faces stress signals -- late 2025 saw high-profile defaults and rising PIK toggle usage in direct lending. New deals are clearing but underwriting is tighter and pricing is up.
+
+Comps and exits: Tech multiples under pressure following AI trade unwind. OpenAI IPO delay signals the public tech listing window is effectively closed in H2 2026. PE-backed tech and AI assets reliant on public comparables are facing a mark-to-market headwind.
+
+Deal and sector flow: PE deal volume fell 34% in H1 2026 vs H1 2025, though average deal size rose nearly 4x as capital concentrated in higher-conviction plays. Infrastructure and energy remain active (Global Infrastructure Partners / EQT / AES $33.4B). Recent sponsor deals: KKR taking a stake in accounting firm Crowe for ~$3B; EQT exploring sale of Singapore healthcare asset at roughly $600M.
+
+---
+
+BOTTOM LINE
+
+Tighter ECB/Fed policy, the continued unwind of the AI multiple, and higher-for-longer base rates are applying simultaneous pressure on tech valuations, exit windows, and levered capital structures -- no single morning catalyst reverses this, and the week's macro data (payrolls on Thursday) is the next potential inflection point.
